@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "nombre": "Ingenieria de sistemas",
+    "alumnos": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 102,
+    "nombre": "Diseño Gráfico",
+    "alumnos": [
+      2
+    ]
+  },
+  {
+    "id": 103,
+    "nombre": "Administración de Empresas",
+    "alumnos": []
+  }
+]

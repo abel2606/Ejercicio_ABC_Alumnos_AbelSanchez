@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "carrera": 101
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Gómez",
+    "carrera": 102
+  },
+  {
+    "id": 4,
+    "nombre": "Laura Méndez",
+    "carrera": 101
+  },
+  {
+    "id": 5,
+    "nombre": "Roberto Sanchez",
+    "carrera": 101
+  }
+]
